@@ -62,12 +62,25 @@ DZE_HaloJump = true;
 76561198172266781 mithion     
 76561198134606563 Loki
 
+TCADMIN General Task Process checklist
+1: INFORM USERS OF LOGIN(admins/developers[FTP &/or TCadmin])
+2: Login [FTP &/or TCadmin]
+3: Login to BattleEye [Use Battle Eye RCON (BERCon.exe) on ur local machine
+4: Send a BE global chat message to online players informing of a restart and listen to replies
 
+5: Stop the server
+6: Unpack Mission File/PBO
+7: File Manager -> backup all important files onto ur local machine
+8: Mod manager-> install/uninstall single map -> install/uninstall single addon.   
+9: Pack Mod folder
+10: Start server and go into TCadmin Logs(stream log files)
+11: Connect to server ingame(fresh execution of game) and test changes
+12: Disconnect to server ingame and close Exe
+//repeat steps 5-12 if neccessary
 
-
-
-
-
+13: Logout [FTP &/or TCadmin]
+14: inform players/dev with BERcon.exe and steam that u are done
+15: Logout BERcon and close BERcon.exe
 
 
 
