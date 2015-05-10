@@ -59,7 +59,8 @@ DZE_ForceNameTagsOff = false;
 DZE_ForceNameTagsInTrader = false;
 DZE_HaloJump = true;
 
-
+76561198172266781 mithion     
+76561198134606563 Loki
 
 
 
